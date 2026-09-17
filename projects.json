@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-01-01T00:00:00.000Z",
+  "projects": [
+    {
+      "id": "sample1",
+      "title": "Kapolet Wetlands Restoration",
+      "description": "Community-led rehabilitation of degraded wetland areas to protect water sources and biodiversity around the source of River Nzoia.",
+      "status": "Ongoing",
+      "category": "Environmental Conservation",
+      "link": null,
+      "date": "2025-06-01",
+      "order": 1,
+      "images": []
+    },
+    {
+      "id": "sample2",
+      "title": "Agro-ecology Food Fair",
+      "description": "An annual gathering celebrating indigenous seeds, traditional foods and the knowledge that keeps them alive.",
+      "status": "Completed",
+      "category": "Agroecology & Indigenous Food Systems",
+      "link": null,
+      "date": "2025-07-07",
+      "order": 2,
+      "images": []
+    }
+  ]
+}

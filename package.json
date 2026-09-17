@@ -1,0 +1,15 @@
+{
+  "name": "sengwer-of-kapolet-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site for Sengwer of Kapolet CBO, with projects pulled from Airtable at build time.",
+  "scripts": {
+    "build": "node build-projects.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "sharp": "^0.33.4"
+  }
+}
